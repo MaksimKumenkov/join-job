@@ -1,0 +1,1 @@
+The next line of all lines
